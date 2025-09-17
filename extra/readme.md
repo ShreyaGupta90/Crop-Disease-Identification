@@ -1,8 +1,12 @@
 ## main1.py Output
 
-![Screenshot of main1.py - 1](extra/images/Screenshot_2025-09-17_234305.png)
-![Screenshot of main1.py - 2](extra/images/Screenshot_2025-09-17_234354.png)
+<p align="center">
+    <img src="./images/Screenshot_2025-09-17_234305.png" alt="Screenshot of main1.py - 1" width="45%">
+    <img src="./images/Screenshot_2025-09-17_234354.png" alt="Screenshot of main1.py - 2" width="45%">
+</p>
 
 ## main2.py Output
 
-![Screenshot of main2.py](extra/images/Screenshot_2025-09-17_231518.png)
+<p align="center">
+    <img src="./images/Screenshot_2025-09-17_231518.png" alt="Screenshot of main2.py" width="50%">
+</p>
