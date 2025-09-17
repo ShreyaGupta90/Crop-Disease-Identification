@@ -10,6 +10,5 @@ https://huggingface.co/spaces/ShreyaGupta90/CropDiseaseIdentify
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9ea3f452-f9e7-42e1-8823-01fbc490f95b" 
-       alt="main.py screenshot" 
-       width="50%" />
+ />
 </p>
