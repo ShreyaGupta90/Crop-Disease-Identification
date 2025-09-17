@@ -1,6 +1,6 @@
-# main1.py gives
-![Screenshot of my project](images/Screenshot 2025-09-17 234305.png)
-![Screenshot of my project](images/Screenshot 2025-09-17 234354.png)
+# main1.py Output
+![Screenshot of main1.py - 1](images/Screenshot_2025-09-17_234305.png)
+![Screenshot of main1.py - 2](images/Screenshot_2025-09-17_234354.png)
 
-# main2.py gives
-![Screenshot of my project](images/Screenshot 2025-09-17 231518.png)
+# main2.py Output
+![Screenshot of main2.py](images/Screenshot_2025-09-17_231518.png)
