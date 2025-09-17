@@ -1,7 +1,7 @@
 ## main1.py Output
 
 <p align="center">
-  <img src="images/Screenshot_2025-09-17_234305.png" alt="Screenshot of main1.py - 1" width="45%">
+  <img src="Crop-Disease-Identification/images/Screenshot_2025-09-17_234305.png" alt="Screenshot of main1.py - 1" width="45%">
   <img src="images/Screenshot_2025-09-17_234354.png" alt="Screenshot of main1.py - 2" width="45%">
 </p>
 
