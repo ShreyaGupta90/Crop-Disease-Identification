@@ -1,4 +1,4 @@
-ja# Crop-Disease-Identification
+# Crop-Disease-Identification
 
 *Link to get jupyter notebook and keras file:*
 https://drive.google.com/drive/folders/19DNtBwh-G0flFeckGob47MXi4yJJjCFm?usp=sharing
